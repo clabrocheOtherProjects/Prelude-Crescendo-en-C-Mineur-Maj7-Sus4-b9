@@ -1,0 +1,54 @@
+@media screen and (min-width:200px) and (max-width:801px)
+{
+
+
+
+	span#navbar
+	{
+		font-size:100%;
+	}
+
+
+	
+	div#banner
+	{	
+  		display: none;
+ 		content:url(Media/Image/baniere_mob.html);
+ 		display: inline-block;
+ 		text-align:center;
+		padding-bottom:10px;
+		max-width: 100%;
+	}
+
+
+
+	body
+	{
+		background: url(Media/Image/backgroundtapisnoir.jpg);;
+		margin:0;
+	}
+
+
+
+	div#centre 
+	{
+		width:auto;
+	}
+
+
+
+	div#colonneGauche
+	{
+		display:none;
+	}
+
+
+	
+	div#colonneDroite
+	{
+		display:none
+	}
+
+
+
+}
